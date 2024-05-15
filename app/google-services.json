@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68236962811",
+    "project_id": "shambacareapp",
+    "storage_bucket": "shambacareapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68236962811:android:70e613a77769ef45c2795e",
+        "android_client_info": {
+          "package_name": "com.kasera.shambacareapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyj1PKsBDCUsLwWHv2E8L6z2ih0cccoVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
